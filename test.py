@@ -1,5 +1,5 @@
 import json
-import cx_Oracle
+
 import openpyxl
 import pandas as pd
 import os
